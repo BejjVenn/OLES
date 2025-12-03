@@ -7,7 +7,7 @@
 
     <h1 style="color: #2c3e50;">Welcome to the Online Examination System</h1>
     <p style="font-size: 16px; color: #555;">
-        This is a simple web application built using JSP and Maven.
+        This is a simple web application built using JSP and Maven for ticket reservation.
     </p>
 
     <h3>What do you want to do?</h3>
